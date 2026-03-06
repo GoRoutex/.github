@@ -100,7 +100,7 @@ If you would like to contribute:
 
 For collaboration or inquiries:
 
-- Email: **contact@routex-go.com**
+- Email: **louis.phammm@gmail.com**
 - Website: **https://routex-go.com**
 
 ---
