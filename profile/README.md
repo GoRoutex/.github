@@ -28,23 +28,6 @@ The project focuses on **high scalability, modular architecture, and cloud-nativ
 
 ---
 
-## 🧩 Architecture
-
-RouteX Hub follows a **Microservices Architecture**.
-Clients (Mobile / Web)
-│
-▼
-API Gateway
-│
-┌──────┼─────────┐
-▼      ▼         ▼
-User   Route    Booking
-Service Service Service
-│        │        │
-▼        ▼        ▼
-Driver  Notification  Payment
-Service   Service     Service
-
 Each service is **independently deployable** and communicates through REST APIs.
 
 ---
