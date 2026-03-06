@@ -83,19 +83,6 @@ Each microservice repository includes automated pipelines:
 
 ---
 
-## 📦 Project Structure
-go-routex (organization)
-│
-├── go-routex-user-service
-├── go-routex-route-service
-├── go-routex-driver-service
-├── go-routex-booking-service
-├── go-routex-api-gateway
-├── go-routex-notification-service
-└── go-routex-deployment-config
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome.
