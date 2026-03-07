@@ -1,4 +1,4 @@
-# RouteX Hub 🚍
+# Routex Hub 🚍
 
 <p align="center">
   <strong>Microservices platform for managing and operating intercity bus transportation systems.</strong>
@@ -11,9 +11,9 @@
 
 ---
 
-## 🚀 About RouteX Hub
+## 🚀 About Routex Hub
 
-**RouteX Hub** is a microservices-based platform designed to power modern transportation systems.
+**Routex Hub** is a microservices-based platform designed to power modern transportation systems.
 
 The platform enables bus companies to:
 
