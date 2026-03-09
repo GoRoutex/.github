@@ -1,4 +1,4 @@
-# Routex Hub 🚍
+# Go Routex 🚍
 
 <p align="center">
   <strong>Microservices platform for managing and operating intercity bus transportation systems.</strong>
@@ -11,9 +11,9 @@
 
 ---
 
-## 🚀 About Routex Hub
+## 🚀 About Go Routex
 
-**Routex Hub** is a microservices-based platform designed to power modern transportation systems.
+**Go Routex** is a microservices-based platform designed to power modern transportation systems.
 
 The platform enables bus companies to:
 
@@ -50,7 +50,7 @@ Main repositories in this organization:
 
 ## 🛠 Technology Stack
 
-RouteX Hub is built using modern backend technologies.
+Go Routex is built using modern backend technologies.
 
 ### Backend
 - Java
